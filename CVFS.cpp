@@ -599,7 +599,7 @@ int main()
         fflush(stdin);
         strcpy(str,"");
 
-        printf("\nMarvellous VFS : > ");
+        printf("\n CVFS : > ");
 
         fgets(str,80,stdin);  //scanf("%[^'\n']s",str);
 
